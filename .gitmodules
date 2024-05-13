@@ -4,3 +4,27 @@
 [submodule "19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation"]
 	path = 19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation
 	url = https://github.com/Ronick2005/19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation.git
+[submodule "19AI308-Object-Oriented-Programming-using-CSharp-Exp-9---Interface-with-abstract-methods"]
+	path = 19AI308-Object-Oriented-Programming-using-CSharp-Exp-9---Interface-with-abstract-methods
+	url = https://github.com/Ronick2005/19AI308-Object-Oriented-Programming-using-CSharp-Exp-9---Interface-with-abstract-methods.git
+[submodule "19AI308-Object-Oriented-Programming-using-CSharp--Ex7---Hierarchical-Inheritance"]
+	path = 19AI308-Object-Oriented-Programming-using-CSharp--Ex7---Hierarchical-Inheritance
+	url = https://github.com/Ronick2005/19AI308-Object-Oriented-Programming-using-CSharp--Ex7---Hierarchical-Inheritance.git
+[submodule "19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function"]
+	path = 19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function
+	url = https://github.com/Ronick2005/19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function.git
+[submodule "19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading"]
+	path = 19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading
+	url = https://github.com/Ronick2005/19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading.git
+[submodule "Exp04-Jagged-Array"]
+	path = Exp04-Jagged-Array
+	url = https://github.com/Ronick2005/Exp04-Jagged-Array.git
+[submodule "Exp03-Constructor"]
+	path = Exp03-Constructor
+	url = https://github.com/Ronick2005/Exp03-Constructor.git
+[submodule "Exp02-CSharpPattern"]
+	path = Exp02-CSharpPattern
+	url = https://github.com/Ronick2005/Exp02-CSharpPattern.git
+[submodule "Eligibility-for-Engineering-Admission"]
+	path = Eligibility-for-Engineering-Admission
+	url = https://github.com/Ronick2005/Eligibility-for-Engineering-Admission.git
